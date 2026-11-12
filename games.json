@@ -9,5 +9,16 @@
     "process_names": [
       "gta_sa.exe"
     ]
+  },
+  {
+    "id": "e1bfe380-1bd2-4d53-9b9f-6c7a4268c73d",
+    "name": "nfs",
+    "paths": {
+      "save_dir_path": "C:\\Users\\mamey\\OneDrive\\Документы\\Need For Speed(TM) Payback",
+      "exe_path": "C:\\Games\\Need for Speed - Payback\\NeedForSpeedPayback.exe"
+    },
+    "process_names": [
+      "NeedForSpeedPayback.exe"
+    ]
   }
 ]
