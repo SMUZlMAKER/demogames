@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "5f8bf148-4a9d-4d70-bba3-9ceb1277254b",
+    "name": "gta sa",
+    "paths": {
+      "save_dir_path": "C:\\Users\\mamey\\OneDrive\\Документы\\GTA San Andreas User Files",
+      "exe_path": "C:\\Games\\GTA San Andreas\\gta_sa.exe"
+    },
+    "process_names": [
+      "gta_sa.exe"
+    ]
+  }
+]
